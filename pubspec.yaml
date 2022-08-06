@@ -1,7 +1,7 @@
 name: total_lints
 description: A very strict set of lints.
 repository: https://github.com/alexeyinkin/dart-total-lints
-version: 2.17.2
+version: 2.17.3
 
 environment:
   sdk: ">=2.17.0 <3.0.0"

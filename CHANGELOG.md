@@ -1,3 +1,7 @@
+## 2.17.3
+
+* Unset `cascade_invocations`.
+
 ## 2.17.2
 
 * Unset `one_member_abstracts`.
