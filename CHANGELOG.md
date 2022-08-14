@@ -1,3 +1,7 @@
+## 2.17.4
+
+* Fixed a syntax error.
+
 ## 2.17.3
 
 * Unset `cascade_invocations`.

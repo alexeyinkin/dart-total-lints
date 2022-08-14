@@ -1,4 +1,4 @@
-include: 'app_2.17.yaml'
+include: app_2.17.yaml
 
 linter:
   rules:
