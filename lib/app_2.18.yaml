@@ -70,7 +70,7 @@ linter:
     - deprecated_consistency
 #    - diagnostic_describe_all_properties # For packages
     - directives_ordering
-#    - discarded_futures # 2.18
+    - discarded_futures
     - do_not_use_environment
     - empty_catches
     - empty_constructor_bodies
@@ -178,7 +178,7 @@ linter:
     - unnecessary_late
     - unnecessary_new
     - unnecessary_null_aware_assignments
-#    - unnecessary_null_aware_operator_on_extension_on_nullable # 2.18
+    - unnecessary_null_aware_operator_on_extension_on_nullable
     - unnecessary_null_checks
     - unnecessary_null_in_if_null_operators
     - unnecessary_nullable_for_final_variable_declarations
@@ -189,7 +189,8 @@ linter:
     - unnecessary_string_escapes
     - unnecessary_string_interpolations
     - unnecessary_this
-#    - unnecessary_to_list_in_spreads # 2.28
+    - unnecessary_to_list_in_spreads
+#    - unreachable_from_main # Not in this version
     - unrelated_type_equality_checks
     - unsafe_html
     - use_build_context_synchronously
@@ -207,6 +208,7 @@ linter:
     - use_rethrow_when_possible
     - use_setters_to_change_properties
     - use_string_buffers
+#    - use_string_in_part_of_directives # Not this version
     - use_super_parameters
     - use_test_throws_matchers
     - use_to_and_as_if_applicable
