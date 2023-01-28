@@ -1,0 +1,7 @@
+include: app_2.19.yaml
+
+linter:
+  rules:
+    - diagnostic_describe_all_properties
+    - public_member_api_docs
+    - use_key_in_widget_constructors
