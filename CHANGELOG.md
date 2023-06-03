@@ -1,3 +1,22 @@
+## 3.0.0
+
+* Enabled all new lints of Dart 3.0:
+  * [deprecated_member_use_from_same_package](https://dart-lang.github.io/linter/lints/deprecated_member_use_from_same_package.html).
+  * [invalid_case_patterns](https://dart-lang.github.io/linter/lints/invalid_case_patterns.html)
+  * [matching_super_parameters](https://dart-lang.github.io/linter/lints/matching_super_parameters.html)
+  * [no_literal_bool_comparisons](https://dart-lang.github.io/linter/lints/no_literal_bool_comparisons.html)
+  * [type_literal_in_constant_pattern](https://dart-lang.github.io/linter/lints/type_literal_in_constant_pattern.html)
+  * [unnecessary_breaks](https://dart-lang.github.io/linter/lints/unnecessary_breaks.html)
+* Enabled [prefer_mixin](https://dart-lang.github.io/linter/lints/prefer_mixin.html)
+* Removed deprecated lints no longer found in the all-options list:
+  * [avoid_as](https://dart-lang.github.io/linter/lints/avoid_as.html)
+  * [enable_null_safety](https://dart-lang.github.io/linter/lints/enable_null_safety.html)
+  * [iterable_contains_unrelated_type](https://dart-lang.github.io/linter/lints/iterable_contains_unrelated_type.html)
+  * [list_remove_unrelated_type](https://dart-lang.github.io/linter/lints/list_remove_unrelated_type.html)
+  * [prefer_bool_in_asserts](https://dart-lang.github.io/linter/lints/prefer_bool_in_asserts.html)
+  * [prefer_equal_for_default_values](https://dart-lang.github.io/linter/lints/prefer_equal_for_default_values.html)
+  * [super_goes_last](https://dart-lang.github.io/linter/lints/super_goes_last.html)
+
 ## 2.19.0
 
 * Enabled all new lints of Dart 2.19:
