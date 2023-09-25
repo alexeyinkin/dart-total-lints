@@ -1,3 +1,7 @@
+## 3.1.1
+
+* Disabled [no_logic_in_create_state](https://dart.dev/tools/linter-rules/no_logic_in_create_state).
+
 ## 3.1.0
 
 * Enabled all new lints of Dart 3.1:
