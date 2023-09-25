@@ -1,3 +1,11 @@
+## 3.1.0
+
+* Enabled all new lints of Dart 3.1:
+  * [no_self_assignments](https://dart.dev/tools/linter-rules/no_self_assignments).
+  * [no_wildcard_variable_uses](https://dart.dev/tools/linter-rules/no_wildcard_variable_uses).
+* Enabled an older lint of Dart 3.0:
+  * [implicit_reopen](https://dart.dev/tools/linter-rules/implicit_reopen).
+
 ## 3.0.0
 
 * Enabled all new lints of Dart 3.0:
