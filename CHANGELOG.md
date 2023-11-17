@@ -1,3 +1,8 @@
+## 3.2.0
+
+* Enabled all new lints of Dart 3.2:
+  * [annotate_redeclares](https://dart.dev/tools/linter-rules/annotate_redeclares).
+
 ## 3.1.1
 
 * Disabled [no_logic_in_create_state](https://dart.dev/tools/linter-rules/no_logic_in_create_state).
