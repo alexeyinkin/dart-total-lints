@@ -1,3 +1,9 @@
+## 3.4.0
+
+* Enabled all new lints of Dart 3.4:
+  * [missing_code_block_language_in_doc_comment](https://dart.dev/tools/linter-rules/missing_code_block_language_in_doc_comment).
+  * [unnecessary_library_name](https://dart.dev/tools/linter-rules/unnecessary_library_name).
+
 ## 3.2.0
 
 * Enabled all new lints of Dart 3.2:
