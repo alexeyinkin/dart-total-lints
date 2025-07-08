@@ -1,3 +1,11 @@
+## 3.5.0
+
+* Enabled 2 of the 3 new lints of Dart 3.5:
+  * [invalid_runtime_check_with_js_interop_types](https://dart.dev/tools/linter-rules/invalid_runtime_check_with_js_interop_types)
+  * [unintended_html_in_doc_comment](https://dart.dev/tools/linter-rules/unintended_html_in_doc_comment)
+* Skipping 1 of the 3 new lints of Dart 3.5:
+  * [document_ignores](https://dart.dev/tools/linter-rules/document_ignores)
+
 ## 3.4.0
 
 * Enabled all new lints of Dart 3.4:
