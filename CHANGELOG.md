@@ -1,3 +1,13 @@
+## 3.6.0
+
+* Enabled all new lints of Dart 3.6
+  * [avoid_futureor_void](https://dart.dev/tools/linter-rules/avoid_futureor_void)
+  * [omit_obvious_local_variable_types](https://dart.dev/tools/linter-rules/omit_obvious_local_variable_types)
+  * [specify_nonobvious_local_variable_types](https://dart.dev/tools/linter-rules/specify_nonobvious_local_variable_types)
+  * [use_truncating_division](https://dart.dev/tools/linter-rules/use_truncating_division)
+* Deleted the removed lint:
+  * [unsafe_html](https://dart.dev/tools/linter-rules/unsafe_html)
+
 ## 3.5.0
 
 * Enabled 2 of the 3 new lints of Dart 3.5:
