@@ -1,3 +1,7 @@
+## 3.7.1
+
+* Fix: Include the 3.7 version by default, used to be 3.4.
+
 ## 3.7.0
 
 * Enabled all new lints of Dart 3.7:
