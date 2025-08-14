@@ -1,3 +1,9 @@
+## 3.7.2
+
+* Disable the rules:
+  * [specify_nonobvious_local_variable_types](https://dart.dev/tools/linter-rules/specify_nonobvious_local_variable_types)
+  * [specify_nonobvious_property_types](https://dart.dev/tools/linter-rules/specify_nonobvious_property_types)
+
 ## 3.7.1
 
 * Fix: Include the 3.7 version by default, used to be 3.4.
