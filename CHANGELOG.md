@@ -1,6 +1,19 @@
+## 3.7.0
+
+* Enabled all new lints of Dart 3.7:
+  * [omit_obvious_property_types](https://dart.dev/tools/linter-rules/omit_obvious_property_types)
+  * [specify_nonobvious_property_types](https://dart.dev/tools/linter-rules/specify_nonobvious_property_types)
+  * [strict_top_level_inference](https://dart.dev/tools/linter-rules/strict_top_level_inference)
+  * [unnecessary_async](https://dart.dev/tools/linter-rules/unnecessary_async)
+  * [unnecessary_ignore](https://dart.dev/tools/linter-rules/unnecessary_ignore)
+  * [unnecessary_underscores](https://dart.dev/tools/linter-rules/unnecessary_underscores)
+  * [unsafe_variance](https://dart.dev/tools/linter-rules/unsafe_variance)
+* Deleted the removed lint:
+  * [package_api_docs](https://dart.dev/tools/linter-rules/package_api_docs)
+
 ## 3.6.0
 
-* Enabled all new lints of Dart 3.6
+* Enabled all new lints of Dart 3.6:
   * [avoid_futureor_void](https://dart.dev/tools/linter-rules/avoid_futureor_void)
   * [omit_obvious_local_variable_types](https://dart.dev/tools/linter-rules/omit_obvious_local_variable_types)
   * [specify_nonobvious_local_variable_types](https://dart.dev/tools/linter-rules/specify_nonobvious_local_variable_types)
