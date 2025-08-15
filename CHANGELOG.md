@@ -1,3 +1,11 @@
+## 3.8.0
+
+* Enabled all new lints of Dart 3.8:
+  * [use_null_aware_elements](https://dart.dev/tools/linter-rules/use_null_aware_elements)
+* Disable the rules:
+  * [type_annotate_public_apis](https://dart.dev/tools/linter-rules/type_annotate_public_apis)
+    for conflicting with [omit_obvious_property_types](https://dart.dev/tools/linter-rules/omit_obvious_property_types).
+
 ## 3.7.2
 
 * Disable the rules:
