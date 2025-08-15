@@ -1,3 +1,9 @@
+## 3.9.0
+
+* Enabled all new lints of Dart 3.9:
+  * [switch_on_type](https://dart.dev/tools/linter-rules/switch_on_type)
+  * [unnecessary_unawaited](https://dart.dev/tools/linter-rules/unnecessary_unawaited)
+
 ## 3.8.0
 
 * Enabled all new lints of Dart 3.8:
