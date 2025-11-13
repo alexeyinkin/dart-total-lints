@@ -1,3 +1,8 @@
+## 3.10.0
+
+* Enabled all new lints of Dart 3.10:
+  * [remove_deprecations_in_breaking_versions](https://dart.dev/tools/linter-rules/remove_deprecations_in_breaking_versions) -- For packages only.
+
 ## 3.9.0
 
 * Enabled all new lints of Dart 3.9:
