@@ -7,4 +7,4 @@ topics:
   - lints
 
 environment:
-  sdk: ">=3.10.0 <4.0.0"
+  sdk: ">=3.10.0-290.4.beta <4.0.0"
